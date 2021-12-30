@@ -1,0 +1,6 @@
+{
+  "extends": [
+    "local>AzisabaNetwork/renovate-config"
+  ],
+  "assignees": ["siloneco"]
+}
