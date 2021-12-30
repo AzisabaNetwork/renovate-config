@@ -5,7 +5,8 @@
     ":prConcurrentLimit10",
     ":prHourlyLimitNone",
     ":enableVulnerabilityAlertsWithLabel(vulnerabilities)",
-    ":timezone(Asia/Tokyo)"
+    ":timezone(Asia/Tokyo)",
+    "github>AzisabaNetwork/renovate-config:schedule"
   ],
   "labels": [
     "dependencies"
