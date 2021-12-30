@@ -1,0 +1,13 @@
+{
+  "extends": [
+    "config:base",
+    ":dependencyDashboard",
+    ":prConcurrentLimit10",
+    ":prHourlyLimitNone",
+    ":enableVulnerabilityAlertsWithLabel(vulnerabilities)",
+    ":timezone(Asia/Tokyo)"
+  ],
+  "labels": [
+    "dependencies"
+  ]
+}
