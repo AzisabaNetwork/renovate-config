@@ -3,6 +3,6 @@
     ":timezone(Asia/Tokyo)"
   ],
   "schedule": [
-    "after 9:00 before 23:00 everyday"
+    "after 9:00 before 23:00"
   ]
 }
