@@ -1,0 +1,10 @@
+{
+  "packageRules": [
+    {
+      "matchPackagePatterns": ["org.apache.maven.plugins:maven-compiler-plugin"],
+      "groupName": "maven-compiler-plugin",
+      "automerge": true,
+      "automergeType": "branch"
+    }
+  ]
+}
