@@ -2,7 +2,7 @@
   "packageRules": [
     {
       "matchPackagePatterns": ["org.apache.maven.plugins:maven-shade-plugin"],
-      "groupName": "maven-compiler-plugin",
+      "groupName": "maven-shade-plugin",
       "stabilityDays": 7,
       "automerge": true,
       "automergeType": "branch"
