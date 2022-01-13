@@ -3,7 +3,7 @@
     {
       "matchPackagePatterns": ["org.apache.maven.plugins:maven-compiler-plugin"],
       "groupName": "maven-compiler-plugin",
-      "stabilityDays": 0,
+      "stabilityDays": 7,
       "automerge": true,
       "automergeType": "branch"
     }
