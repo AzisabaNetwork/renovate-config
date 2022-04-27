@@ -1,0 +1,11 @@
+{
+  "packageRules": [
+    {
+      "matchPackagePatterns": ["org.projectlombok:lombok"],
+      "groupName": "lombok",
+      "stabilityDays": 7,
+      "automerge": true,
+      "automergeType": "branch"
+    }
+  ]
+}

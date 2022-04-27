@@ -8,7 +8,8 @@
     ":timezone(Asia/Tokyo)",
     "github>AzisabaNetwork/renovate-config:schedule",
     "github>AzisabaNetwork/renovate-config:auto-merge-mvn-compiler-plugin",
-    "github>AzisabaNetwork/renovate-config:auto-merge-mvn-shade-plugin"
+    "github>AzisabaNetwork/renovate-config:auto-merge-mvn-shade-plugin",
+    "github>AzisabaNetwork/renovate-config:auto-merge-lombok"
   ],
   "labels": [
     "dependencies"
