@@ -22,6 +22,7 @@
 * PRが作成される時間帯を9:00-23:00のみに制限
 * [MavenCompilerPlugin](https://maven.apache.org/plugins/maven-compiler-plugin/)を自動マージ
 * [MavenShadePlugin](https://maven.apache.org/plugins/maven-shade-plugin/)を自動マージ
+* [Lombok](https://mvnrepository.com/artifact/org.projectlombok/lombok)を自動マージ
 
 ## ライセンス / License
 [Apache License 2.0](LICENSE)
