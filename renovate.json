@@ -2,6 +2,5 @@
   "extends": [
     "local>AzisabaNetwork/renovate-config",
     "local>AzisabaNetwork/renovate-config:auto-merge-minor-updates"
-  ],
-  "assignees": ["siloneco"]
+  ]
 }
