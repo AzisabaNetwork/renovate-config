@@ -1,11 +1,13 @@
 {
   "packageRules": [
     {
-      "matchPackagePatterns": ["org.projectlombok:lombok"],
       "groupName": "lombok",
-      "stabilityDays": 7,
+      "minimumReleaseAge": "7 days",
       "automerge": true,
-      "automergeType": "branch"
+      "automergeType": "branch",
+      "matchPackageNames": [
+        "/org.projectlombok:lombok/"
+      ]
     }
   ]
 }
